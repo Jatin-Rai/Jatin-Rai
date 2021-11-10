@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jatin Rai.
 - 👀 I’m interested in Technology and Coding/Programming.
-- 🌱 I’m currently learning gatsbyjs.
+- 🌱 I’m currently looking for a job.
 - 💞️ I’m looking to collaborate on any project that can help in the development of the community. 
 - 📫 Contact me jatinrai258@gmail.com
 
